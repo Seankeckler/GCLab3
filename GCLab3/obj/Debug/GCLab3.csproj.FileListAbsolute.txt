@@ -1,0 +1,7 @@
+C:\Users\seank\source\repos\GCLab3\GCLab3\bin\Debug\GCLab3.exe.config
+C:\Users\seank\source\repos\GCLab3\GCLab3\bin\Debug\GCLab3.exe
+C:\Users\seank\source\repos\GCLab3\GCLab3\bin\Debug\GCLab3.pdb
+C:\Users\seank\source\repos\GCLab3\GCLab3\obj\Debug\GCLab3.csprojAssemblyReference.cache
+C:\Users\seank\source\repos\GCLab3\GCLab3\obj\Debug\GCLab3.csproj.CoreCompileInputs.cache
+C:\Users\seank\source\repos\GCLab3\GCLab3\obj\Debug\GCLab3.exe
+C:\Users\seank\source\repos\GCLab3\GCLab3\obj\Debug\GCLab3.pdb
